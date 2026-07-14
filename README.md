@@ -175,3 +175,29 @@ The automatic project scoring system is planned to evaluate projects using facto
 B.Tech Computer Science and Engineering — Cloud Computing
 
 SRM Institute of Science and Technology
+
+## Dashboard Preview
+
+### Page 1 — Student Overview
+
+![Student Overview Dashboard](Screenshots/Student_Overview.png)
+
+### Page 2 — Coding and SQL Analytics
+
+![Coding and SQL Analytics Dashboard](Screenshots/Coding_SQL_Page_2.png)
+
+### Page 3 — Project and GitHub Analytics
+
+![Project and GitHub Analytics Dashboard](Screenshots/Project_Github_Page_3.png)
+
+### Page 4 — Placement Readiness Analytics
+
+![Placement Readiness Analytics Dashboard](Screenshots/Placement_Readiness_Page_4.png)
+
+### Page 5 — Mock Test Performance Analytics
+
+![Mock Test Performance Dashboard](Screenshots/Mock_Test_Page_5.png)
+
+### Page 6 — Company Application Analytics
+
+![Company Application Analytics Dashboard](Screenshots/Company_Application_Page_6.png)
