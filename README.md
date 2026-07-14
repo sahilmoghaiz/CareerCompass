@@ -117,8 +117,6 @@ These SQL techniques are used to identify student performance trends, compare br
 
 ```text
 CareerCompass/
-├── Assets/
-├── Dataset/
 ├── Docs/
 ├── PowerBI/
 ├── Screenshots/
@@ -129,8 +127,6 @@ CareerCompass/
 
 ### Folder Description
 
-- `Assets` — Stores project assets and supporting visual resources
-- `Dataset` — Contains datasets used for CareerCompass analytics
 - `Docs` — Contains software engineering and project documentation
 - `PowerBI` — Contains the CareerCompass Power BI dashboard file
 - `Screenshots` — Stores dashboard screenshots used in project documentation
